@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { AuthProvider } from "./context/Authcontext";
 import ProtectedRoute from "./components/ProtectedRoute";
 import Auth from "./components/Auth";
-import Workspace from "./components/workspace";
+import Workspace from "./components/Workspace";
 import New from "./components/New";
 
 function App() {
